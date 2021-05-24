@@ -1,0 +1,15 @@
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe.config
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.exe
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\bin\Debug\Hangman_Game.pdb
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csprojAssemblyReference.cache
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.AdminControlsPage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.AdminLoginPage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.GameInformationPage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.GamePage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.HighScoresPage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.Properties.Resources.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.WelcomePage.resources
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.GenerateResource.cache
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.csproj.CoreCompileInputs.cache
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.exe
+C:\Users\muham\source\repos\Hangman_Game\Hangman_Game\obj\Debug\Hangman_Game.pdb
